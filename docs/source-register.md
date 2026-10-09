@@ -1,10 +1,10 @@
 # Source register
 
-This page tracks which field notes have had an initial editorial source check. It is an internal working index, not a collection of personal information.
+Initial review dates for the field-notes series. Superseded working attachments are not included in the current reading set.
 
 | Record | Initial check | Note |
 | --- | --- | --- |
 | TA-01 | 2026-10-05 | Source wording compared with working edition |
 | TA-02 | 2026-10-07 | Identity-attribution examples reviewed |
 
-Record checks confirm a documented observation; they do not certify that every statement on a source page is accurate.
+A source check confirms the recorded observation, not the truth of every claim in the material reviewed.
